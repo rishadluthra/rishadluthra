@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I'm Rishad
 
-<!--
-**rishadluthra/rishadluthra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Economics student at the University of Waterloo with a passion for building impactful software. I enjoy working across the stack—from backend services to frontend interfaces—and thrive in collaborative, fast-paced environments.
 
-Here are some ideas to get you started:
+I’m currently working as a **Senior SWE at TriviaLinked (Part-time)**, where I help architect and ship features for the fast-growing daily trivia game in iOS. 🧠🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Previous Experience
+- Software Engineer Intern @ Sun Life (2 terms)
+- Software Development and Research Intern @ Harvard Medical School / Brigham and Women's Hospital
+- Software Developer Intern @ Mediaocean
+
+### 📫 How to Reach Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rishadluthra)
+- 🌍 [Personal Website](https://www.rishadluthra.dev)
