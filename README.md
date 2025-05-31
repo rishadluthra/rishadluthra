@@ -9,6 +9,12 @@ I’m currently working as a **Senior SWE at TriviaLinked (Part-time)**, where I
 - Software Development and Research Intern @ Harvard Medical School / Brigham and Women's Hospital
 - Software Developer Intern @ Mediaocean
 
+### ⚽ Other Interests
+Outside of tech, I’m a big fan of:
+- ⚽ Football (sOCcEr)
+- 🏎️ Formula 1
+- ⛳ Golf
+
 ### 📫 How to Reach Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rishadluthra)
 - 🌍 [Personal Website](https://www.rishadluthra.dev)
