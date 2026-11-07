@@ -2,9 +2,10 @@
 
 I'm a recent Computer Science and Economics graduate from the University of Waterloo with a passion for building impactful software. I enjoy working across the stack—from backend services to frontend interfaces—and thrive in collaborative, fast-paced environments.
 
-I’m currently working as a **SWE at TriviaLinked (Part-time)**, where I help architect and ship features for the fast-growing daily trivia game in iOS. 🧠🔗
+I’m currently working as a **Software Engineer at Decoda Health (YC23)** on the Customer Success team, where I help architect and ship features for the best AI-Native EMR out there.
 
 ### 💼 Previous Experience
+- Softawre Engineeer @ Trival (formerly TriviaLinked)
 - Software Engineer Intern @ Sun Life (2 terms)
 - Software Development and Research Intern @ Harvard Medical School / Brigham and Women's Hospital
 - Software Developer Intern @ Mediaocean
